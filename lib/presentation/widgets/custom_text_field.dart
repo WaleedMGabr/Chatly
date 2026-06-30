@@ -1,7 +1,3 @@
-// Reusable text form field widget that adapts to the current theme.
-// All border, fill, and color styling is driven by the app's InputDecorationTheme,
-// supporting optional prefix/suffix icons and password obscuring.
-
 import 'package:flutter/material.dart';
 
 class CustomTextFormField extends StatelessWidget {
