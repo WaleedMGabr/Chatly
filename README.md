@@ -29,6 +29,49 @@
 
 ---
 
+## 📸 App Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063556.png" width="100%" /><br />
+      <b>Sign Up</b>
+    </td>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063353.png" width="100%" /><br />
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063742.png" width="100%" /><br />
+      <b>Chats (Empty State)</b>
+    </td>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063751.png" width="100%" /><br />
+      <b>Contacts / People</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063800.png" width="100%" /><br />
+      <b>Profile & Settings</b>
+    </td>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063842.png" width="100%" /><br />
+      <b>Update Avatar</b>
+    </td>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063901.png" width="100%" /><br />
+      <b>Chat Room</b>
+    </td>
+    <td align="center">
+      <img src="app%20screens/Screenshot_20260720_063915.png" width="100%" /><br />
+      <b>Recent Chats (Dark Mode)</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technology Stack
 
 - **Framework:** Flutter
